@@ -17,6 +17,7 @@ class multiprogramming{
         while(true){
             System.out.println(i+"world");
             i++;
+            
         }
     }
 }
