@@ -56,5 +56,44 @@ public class wrapper {
         System.out.println(s1);
         System.out.println(s2);
         System.out.println(s3);*/
+
+        //java.math package
+
+        //System.out.println("Absolute : "+Math.abs(-123));
+        //System.out.println("Absolute : "+StrictMath.abs(-123));
+
+        //System.out.println("Cube root : "+Math.cbrt(27));
+
+        //System.out.println("Exact Decrement : "+Math.decrementExact(Integer.MIN_VALUE));
+        /*int i=Integer.MIN_VALUE;
+        i--;
+        System.out.println(i);*/
+
+        //System.out.println("Exponent value in Floating point Rep. : "+Math.getExponent(123.45));
+
+        //System.out.println("Round division : "+Math.floorDiv(27,9));
+
+        /*System.out.println("e power x : "+Math.exp(1) );
+        System.out.println("e power x : "+StrictMath.exp(1) );*/
+
+        //System.out.println("log base 10 : "+Math.log10(100));
+
+        //System.out.println("Maximum : "+Math.max(10,20));
+
+        //System.out.println("Tan : "+Math.tan(45*Math.PI/100));
+
+        //System.out.println("convert to radian : "+Math.toRadians(90));
+
+        //System.out.println("convert to degree : "+Math.toDegrees(Math.atan(1)));
+
+        //System.out.println("random : "+Math.random());
+
+        //System.out.println("power : "+Math.pow(3,4));
+
+        //System.out.println("exact product : "+Math.multiplyExact(10,20));
+
+        //System.out.println("next float value : "+Math.nextAfter(12.5f,11));
+
+
     }
 }
