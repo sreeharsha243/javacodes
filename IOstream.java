@@ -19,6 +19,7 @@
   void flush()
   void close()*/
 
+import java.io.*;
 public class IOstream
 {
 
