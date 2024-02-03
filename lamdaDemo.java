@@ -1,5 +1,4 @@
-/*
-
+/*
 @FunctionalInterface //interface having single method
 interface MyLamda
 {
