@@ -12,6 +12,5 @@ System.out.println(n);
 System.out.println(s);
 System.out.println(t);
 System.out.println(a);
-}
-
+}
 }
