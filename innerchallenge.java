@@ -1,3 +1,4 @@
+
 class whiteBoard
 {
     String text;
