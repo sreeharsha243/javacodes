@@ -1,6 +1,5 @@
 import java.io.*;
 
-
 public class FileHandle
 {
     public static void main(String args[])throws Exception
